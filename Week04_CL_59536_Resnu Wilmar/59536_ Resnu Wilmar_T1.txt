@@ -1,0 +1,9 @@
+1. 
+Variasi linked list yang digunakan dalam potongan kode diatas adalah double linked list,
+karena kode tersebut hanya bisa digunakan untuk maju ke node selanjutnya dan mundur ke node 
+sebelumnya, saat curr sampai ke tail, ketika dipilih menu maju akan keluar kata tidak bisa
+maju, karena double linked list hanya bisa maju mundur, tidak memutar ke head dari tail.
+
+2.
+Penambahan simpul dalam kodingan tersebut merupakan tambah belakang, karena node
+yang ditambahkan akan diletakkan setelah tail, dan node tersebut akan dijadikan tail.

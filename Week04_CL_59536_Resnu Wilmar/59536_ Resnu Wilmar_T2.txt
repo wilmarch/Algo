@@ -1,0 +1,9 @@
+1.
+Variasi linked list yang digunakan pada kode diatas adalah circular linked list,
+karena node tersebut hanya bisa maju ke node selanjutnya saja, dan ketika sampai ke 
+tail, lalu diperiny=tah untuk maju makan akan kembali ke head, penjelasan ini membuktikan
+bahwa ini adalah circular.
+
+2.
+Penambahan simpul dalam kode tersebut adalah ta,bah depan, karena node akan ditambahkan
+sebelum head, lalu node tersebut akan dijadikan head.
